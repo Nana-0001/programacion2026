@@ -1,2 +1,1 @@
 # Primer ejercicio
-Hola mundo
